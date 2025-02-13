@@ -1,2 +1,3 @@
-# ss13-selfhost-tts
-Self-hosted text-to-speech server for SS13 codebases
+# Self-hosted SS13 Text-To-Speech server
+Currently supported:
+- Silero API
